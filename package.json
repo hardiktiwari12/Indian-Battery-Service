@@ -1,0 +1,1 @@
+{\n  "name": "indian-battery-service",\n  "private": true,\n  "workspaces": [\n    "frontend/*",\n    "backend/*"\n  ],\n  "devDependencies": {\n    "eslint": "^7.32.0"\n  }\n}
